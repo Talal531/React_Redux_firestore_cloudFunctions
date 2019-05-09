@@ -1,5 +1,7 @@
 Web Application for creating list of projects with firestore storage, firebase authentication, and firebase cloud functions for real time notifications.
 
+### Note: make sure add your firbase configuration in \'src/config/fbConfig.js\' file
+
 ### step 1
 ```
 git clone https://github.com/Talal531/React_Redux_firestore_cloudFunctions
